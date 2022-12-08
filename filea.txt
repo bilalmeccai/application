@@ -1,3 +1,2 @@
 this is file A
 abcd
-making the 3rd change to the file 
