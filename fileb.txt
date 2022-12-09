@@ -1,2 +1,3 @@
 this is file B
 changes to file b
+this is for squash merge 
