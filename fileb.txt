@@ -1,2 +1,6 @@
 this is file B
-making changes to file b 
+ biltech2023
+making changes to file b
+changes to file b
+this is for squash merge 
+
